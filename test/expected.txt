@@ -300,6 +300,6 @@
 || Enter command: || [Command entered:  exit]
 || Exiting Address Book as requested ...
 || ===================================================
-|| Good bye!
+|| Good bye! We Hope to see you again soon!
 || ===================================================
 || ===================================================
